@@ -1,5 +1,5 @@
 # APICURRENCYVNZLA
-Script de PHP que devuelve información de las monedas manejadas en la pagina oficinal del Banco Central de Venezuela, dicha información la retorna en formato JSON para ser usada en proyectos de calculadora y convertidores para aplicaciones realizadas en territorio venezolano o para uso libre de apoyo.
+Script de PHP que devuelve información de las monedas manejadas en la pagina oficinal del Banco Central de Venezuela haciendo uso de webscraping, dicha información la retorna en formato JSON para ser usada en proyectos de calculadora o convertidores para aplicaciones realizadas en territorio venezolano o para uso libre de apoyo.
 
 Instrucciones:
 - Colocar el fuente en su proyecto de desarrollo.
